@@ -1,0 +1,64 @@
+{
+  "weekly": "Haftalik",
+
+  "main": {
+    "Thunderstorm": "Momaqaldiroq",
+    "Drizzle": "Maydalab yog'gan yomg'ir",
+    "Rain": "Yomg'ir",
+    "Snow": "Qor",
+    "Mist": "Tuman",
+    "Smoke": "Tuman",
+    "Haze": "Tuman",
+    "Dust": "Chang",
+    "Sand": "Qum",
+    "Ash": "Kul",
+    "Squall": "Bosimlik",
+    "Clear": "Ochiq havo",
+    "Clouds": "Bulutli"
+  },
+  "infoMain": {
+    "bad": "Yomon",
+    "Nice": "Ajoyib",
+    "Good": "Yaxshi"
+  },
+  "citys": {
+    "tashkent": "Toshkent",
+    "andijan": "Andijon",
+    "bukhara": "Buxoro",
+    "gulistan": "Guliston",
+    "jizzakh": "Jizzax",
+    "zarafshan": "Zarafshon",
+    "karshi": "Qarshi",
+    "navoi": "Navoiy",
+    "namangan": "Namangan",
+    "nukus": "Nukus",
+    "samarkand": "Samarqand",
+    "termez": "Termiz",
+    "urgench": "Urgench",
+    "fergana": "Farg'ona",
+    "khiva": "Xiva",
+    "Uz": "Uz"
+  },
+
+  "weeks": {
+    "среда": "Chorshanba",
+    "четверг": "Payshanba",
+    "пятница": "Juma",
+    "суббота": "Shanba",
+    "воскресенье": "Yakshanba",
+    "понедельник": "Dushanba",
+    "вторник": "Seshanba"
+  },
+
+  "Hourly": "Soatlik",
+  "TodayHighlights": "Bugungi kunning yangiliklari",
+  "Ulttraviolet UI index": "UV indeksi",
+  "Sunrise": "Quyosh chiqishi",
+  "Sunset": "Quyosh botishi",
+  "Wind": "Shamol",
+  "Humidity": "Namlik",
+  "Differnt for driving": "Haydash qulayligi",
+  "Pollen": "Chang",
+  "Walking": "Yurish",
+  "km/h": "km/s"
+}
